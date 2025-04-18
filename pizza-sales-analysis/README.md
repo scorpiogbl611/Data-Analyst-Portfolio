@@ -22,6 +22,3 @@ To help stakeholders understand key insights from pizza sales data and make info
 - Recommendations:
   - Offer lunch combos during peak hours
   - Focus marketing on top-selling products
-## 📸 Sample Dashboard
-
-> (Add screenshots or link to Power BI report if hosted online)

@@ -21,7 +21,3 @@ This project focuses on analyzing customer data from a bank to understand behavi
 
 - Predict customer churn using classification models
 - Add trend visualizations for quarterly loan performance
-
-## 📸 Sample Dashboard
-
-> (Insert screenshots or hosted dashboard link if available)
